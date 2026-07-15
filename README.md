@@ -191,3 +191,8 @@ If you use this dataset in research, publications, or academic projects, please 
 This dataset was created with the intention of contributing a useful educational resource to the Kaggle community. I hope it helps students, educators, and practitioners explore engineering placement trends and build meaningful machine learning projects.
 
 If you find this dataset useful, consider sharing your notebooks and analyses with the community.
+
+## Kaggle Dataset
+
+Available on Kaggle:
+https://www.kaggle.com/datasets/vishwajeetchandole/indian-engineering-placement-dataset-2026
